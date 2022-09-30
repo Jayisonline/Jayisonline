@@ -1,11 +1,15 @@
 
-# Hi 👋, I'm Jay Khapre
-## A passionate Software Developer from India
-🔭 I’m currently a Junior, Computer Science and Engineering Undergraduate at Prof. Ram Meghe Institute of Technology and Research
+<h1 align="center">
+Hi 👋, I'm Jay Khapre
+</h1>
 
-💬 Ask me about Competitive Programming, Data Structures and Algorithms, Backend Web Development
+<h2 align="center">A passionate Software Developer from India</h2>
 
-📫 Say Hi : khaprejay19@gmail.com
+- 🔭 I’m currently a Junior, Computer Science and Engineering Undergraduate at **Prof. Ram Meghe Institute of Technology and Research**
+
+- 💬 Ask me about **Competitive Programming, Data Structures and Algorithms, Backend Web Development**
+
+- 📫 Say Hi : khaprejay19@gmail.com
 
 
 
