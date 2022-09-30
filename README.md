@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**Jayisonline/Jayisonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Jay Khapre
+## A passionate Software Developer from India
+🔭 I’m currently a Junior, Computer Science and Engineering Undergraduate at Prof. Ram Meghe Institute of Technology and Research
 
-Here are some ideas to get you started:
+💬 Ask me about Competitive Programming, Data Structures and Algorithms, Backend Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Say Hi : khaprejay19@gmail.com
+
+
+
+Connect with me.
+[Jay Khapre](https://www.linkedin.com/in/jay-khapre-2611061b3/) [HelloJay](https://codeforces.com/profile/HelloJay) [jayisonline](https://www.codechef.com/users/jayisonline) [instagram](https://www.instagram.com/jayykhapre/)
