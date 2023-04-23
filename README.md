@@ -9,7 +9,7 @@ Hi 👋, I'm Jay Khapre
 
 - 💬 Ask me about **Competitive Programming, Data Structures and Algorithms, Backend Web Development**
 
-- 📫 Say Hi : khaprejay19@gmail.com
+- 📫 Say Hi : khaprejay03@gmail.com
 
 
 
